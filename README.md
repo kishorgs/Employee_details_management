@@ -16,4 +16,4 @@ searching for data in a table
 
 deleting the data from table
 
-<img src="img/Employee management 01-04-2022 16_55_28" width="600" height="400">
+<img src="img/Employee management 01-04-2022 16_55_28.png" width="600" height="400">
